@@ -1,2 +1,2 @@
 # winch
-Sandboxed pipeline-oriented agent isolation
+Pipeline-oriented agent isolation
